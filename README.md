@@ -19,5 +19,5 @@ Python, possui vários framework poderosos, como Django, Flask, entre outros. Co
 
 ## Demosntração
 
-![Screenshot_2021-05-04_18_01_27](C:\Users\leozi\Documents\Cursos\Screenshot_2021-05-04_18_01_27.png)
+![Screenshot_2021-05-04_18_01_27](https://user-images.githubusercontent.com/42840902/117069946-7e46ac00-ad03-11eb-843f-7268e95a392b.png)
 
